@@ -1,0 +1,876 @@
+{
+    "code": 200,
+    "data": {
+        "course": {
+            "course_id": 854,
+            "course_name": "GYB创业意识",
+            "course_code": "036874d536a0c928961b661395fdaf8f",
+            "course_image": "https:\/\/yxzx-public.oss-cn-beijing.aliyuncs.com\/admin\/image\/course\/956262c9713eaecb0b41dea9f8c15770.jpg",
+            "first_job_id": 327,
+            "second_job_id": 496,
+            "course_content": "",
+            "course_sort": 100,
+            "course_ishot": 1,
+            "course_push_time": null,
+            "course_view_num": 351114,
+            "course_status": 1,
+            "history_course_id": 0,
+            "jg_status": 1,
+            "course_section": [
+                {
+                    "section_id": 18812,
+                    "course_id": 854,
+                    "section_code": "77d0df5cbb32a372e22d402d61a76fe1",
+                    "section_name": "01 ＧＹＢ历史整体介绍",
+                    "section_sort": 1,
+                    "section_status": 1,
+                    "course_resource": [
+                        {
+                            "resource_id": 18858,
+                            "section_id": 18812,
+                            "resource_code": "fd7c2f500750431423aeeef8e7300f70",
+                            "resource_name": "01 ＧＹＢ历史整体介绍",
+                            "resource_image": null,
+                            "resource_video": "https:\/\/yxzx-course.oss-cn-beijing.aliyuncs.com\/GYB%E5%88%9B%E4%B8%9A%E6%84%8F%E8%AF%86\/01%20%EF%BC%A7%EF%BC%B9%EF%BC%A2%E5%8E%86%E5%8F%B2%E6%95%B4%E4%BD%93%E4%BB%8B%E7%BB%8D%2047.06%20.mp4",
+                            "resource_duration": 2826,
+                            "resource_sort": 1,
+                            "resource_view_num": 6881,
+                            "resource_status": 1,
+                            "course_resource_record": {
+                                "record_id": 507165,
+                                "course_id": 854,
+                                "resource_id": 18858,
+                                "student_id": 16729,
+                                "record_resource_duration": 200,
+                                "record_resource_per": "7.00",
+                                "record_time": 1691978741,
+                                "record_status": 0,
+                                "time_sync": 0,
+                                "regulation_record_time": 180,
+                                "is_jg": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "section_id": 18813,
+                    "course_id": 854,
+                    "section_code": "3834264a3c74633b96f1fcf109e17571",
+                    "section_name": "02 你的企业将销售什么产品或服务",
+                    "section_sort": 2,
+                    "section_status": 1,
+                    "course_resource": [
+                        {
+                            "resource_id": 18859,
+                            "section_id": 18813,
+                            "resource_code": "9f7d06d1c02963984578e23f9ede253b",
+                            "resource_name": "02 你的企业将销售什么产品或服务",
+                            "resource_image": null,
+                            "resource_video": "https:\/\/yxzx-course.oss-cn-beijing.aliyuncs.com\/GYB%E5%88%9B%E4%B8%9A%E6%84%8F%E8%AF%86\/02%20%E4%BD%A0%E7%9A%84%E4%BC%81%E4%B8%9A%E5%B0%86%E9%94%80%E5%94%AE%E4%BB%80%E4%B9%88%E4%BA%A7%E5%93%81%E6%88%96%E6%9C%8D%E5%8A%A1%2049.41.mp4",
+                            "resource_duration": 2981,
+                            "resource_sort": 2,
+                            "resource_view_num": 3472,
+                            "resource_status": 1,
+                            "course_resource_record": {
+                                "record_id": 507166,
+                                "course_id": 854,
+                                "resource_id": 18859,
+                                "student_id": 16729,
+                                "record_resource_duration": 0,
+                                "record_resource_per": "0.00",
+                                "record_time": 1691912880,
+                                "record_status": 0,
+                                "time_sync": 0,
+                                "regulation_record_time": 0,
+                                "is_jg": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "section_id": 18814,
+                    "course_id": 854,
+                    "section_code": "03877ceb700e1f7137ac246106e76b43",
+                    "section_name": "03 你的企业将向谁销售产品或服务",
+                    "section_sort": 3,
+                    "section_status": 1,
+                    "course_resource": [
+                        {
+                            "resource_id": 18860,
+                            "section_id": 18814,
+                            "resource_code": "8a96c4f3f3ba6b32a1f70489d5852252",
+                            "resource_name": "03 你的企业将向谁销售产品或服务",
+                            "resource_image": null,
+                            "resource_video": "https:\/\/yxzx-course.oss-cn-beijing.aliyuncs.com\/GYB%E5%88%9B%E4%B8%9A%E6%84%8F%E8%AF%86\/03%20%E4%BD%A0%E7%9A%84%E4%BC%81%E4%B8%9A%E5%B0%86%E5%90%91%E8%B0%81%E9%94%80%E5%94%AE%E4%BA%A7%E5%93%81%E6%88%96%E6%9C%8D%E5%8A%A1%2053.28.mp4",
+                            "resource_duration": 3208,
+                            "resource_sort": 3,
+                            "resource_view_num": 3822,
+                            "resource_status": 1,
+                            "course_resource_record": {
+                                "record_id": 507167,
+                                "course_id": 854,
+                                "resource_id": 18860,
+                                "student_id": 16729,
+                                "record_resource_duration": 0,
+                                "record_resource_per": "0.00",
+                                "record_time": 1691912880,
+                                "record_status": 0,
+                                "time_sync": 0,
+                                "regulation_record_time": 0,
+                                "is_jg": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "section_id": 18815,
+                    "course_id": 854,
+                    "section_code": "7431dd59aac875a7e870e969a5d48e66",
+                    "section_name": "04 你的企业将如何销售产品或服务",
+                    "section_sort": 4,
+                    "section_status": 1,
+                    "course_resource": [
+                        {
+                            "resource_id": 18861,
+                            "section_id": 18815,
+                            "resource_code": "e0d65d0f3c376c37d499622b796fd86d",
+                            "resource_name": "04 你的企业将如何销售产品或服务",
+                            "resource_image": null,
+                            "resource_video": "https:\/\/yxzx-course.oss-cn-beijing.aliyuncs.com\/GYB%E5%88%9B%E4%B8%9A%E6%84%8F%E8%AF%86\/04%20%E4%BD%A0%E7%9A%84%E4%BC%81%E4%B8%9A%E5%B0%86%E5%A6%82%E4%BD%95%E9%94%80%E5%94%AE%E4%BA%A7%E5%93%81%E6%88%96%E6%9C%8D%E5%8A%A1%2049.45.mp4",
+                            "resource_duration": 2985,
+                            "resource_sort": 4,
+                            "resource_view_num": 2910,
+                            "resource_status": 1,
+                            "course_resource_record": {
+                                "record_id": 507168,
+                                "course_id": 854,
+                                "resource_id": 18861,
+                                "student_id": 16729,
+                                "record_resource_duration": 0,
+                                "record_resource_per": "0.00",
+                                "record_time": 1691912880,
+                                "record_status": 0,
+                                "time_sync": 0,
+                                "regulation_record_time": 0,
+                                "is_jg": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "section_id": 18816,
+                    "course_id": 854,
+                    "section_code": "f6616dab3f6a943a88cac92e3872f420",
+                    "section_name": "05 你的企业将满足顾客的哪些需求",
+                    "section_sort": 5,
+                    "section_status": 1,
+                    "course_resource": [
+                        {
+                            "resource_id": 18862,
+                            "section_id": 18816,
+                            "resource_code": "583b6c0ac6dff5b878e3e4a1f3e13eee",
+                            "resource_name": "05 你的企业将满足顾客的哪些需求",
+                            "resource_image": null,
+                            "resource_video": "https:\/\/yxzx-course.oss-cn-beijing.aliyuncs.com\/GYB%E5%88%9B%E4%B8%9A%E6%84%8F%E8%AF%86\/05%20%E4%BD%A0%E7%9A%84%E4%BC%81%E4%B8%9A%E5%B0%86%E6%BB%A1%E8%B6%B3%E9%A1%BE%E5%AE%A2%E7%9A%84%E5%93%AA%E4%BA%9B%E9%9C%80%E6%B1%82%2049.06.mp4",
+                            "resource_duration": 2946,
+                            "resource_sort": 5,
+                            "resource_view_num": 2866,
+                            "resource_status": 1,
+                            "course_resource_record": {
+                                "record_id": 507169,
+                                "course_id": 854,
+                                "resource_id": 18862,
+                                "student_id": 16729,
+                                "record_resource_duration": 0,
+                                "record_resource_per": "0.00",
+                                "record_time": 1691912880,
+                                "record_status": 0,
+                                "time_sync": 0,
+                                "regulation_record_time": 0,
+                                "is_jg": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "section_id": 18817,
+                    "course_id": 854,
+                    "section_code": "8b71ea9330f597999de8c3442fee3a82",
+                    "section_name": "06 自我评价练习（上）",
+                    "section_sort": 6,
+                    "section_status": 1,
+                    "course_resource": [
+                        {
+                            "resource_id": 18863,
+                            "section_id": 18817,
+                            "resource_code": "364e0fe0c1b3e6bf93e61147f111aebe",
+                            "resource_name": "06 自我评价练习（上）",
+                            "resource_image": null,
+                            "resource_video": "https:\/\/yxzx-course.oss-cn-beijing.aliyuncs.com\/GYB%E5%88%9B%E4%B8%9A%E6%84%8F%E8%AF%86\/06%20%E8%87%AA%E6%88%91%E8%AF%84%E4%BB%B7%E7%BB%83%E4%B9%A0%EF%BC%88%E4%B8%8A%EF%BC%89%2045.20.mp4",
+                            "resource_duration": 2720,
+                            "resource_sort": 6,
+                            "resource_view_num": 2866,
+                            "resource_status": 1,
+                            "course_resource_record": {
+                                "record_id": 507170,
+                                "course_id": 854,
+                                "resource_id": 18863,
+                                "student_id": 16729,
+                                "record_resource_duration": 0,
+                                "record_resource_per": "0.00",
+                                "record_time": 1691912880,
+                                "record_status": 0,
+                                "time_sync": 0,
+                                "regulation_record_time": 0,
+                                "is_jg": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "section_id": 18818,
+                    "course_id": 854,
+                    "section_code": "f6d0eca286bbf2c0198d5ab73c3f6af9",
+                    "section_name": "07 自我评价练习（中）",
+                    "section_sort": 7,
+                    "section_status": 1,
+                    "course_resource": [
+                        {
+                            "resource_id": 18864,
+                            "section_id": 18818,
+                            "resource_code": "6fe6a46e21007162e6cf916f1df2b5ad",
+                            "resource_name": "07 自我评价练习（中）",
+                            "resource_image": null,
+                            "resource_video": "https:\/\/yxzx-course.oss-cn-beijing.aliyuncs.com\/GYB%E5%88%9B%E4%B8%9A%E6%84%8F%E8%AF%86\/07%20%E8%87%AA%E6%88%91%E8%AF%84%E4%BB%B7%E7%BB%83%E4%B9%A0%EF%BC%88%E4%B8%AD%EF%BC%89%2049.22.mp4",
+                            "resource_duration": 2962,
+                            "resource_sort": 7,
+                            "resource_view_num": 2624,
+                            "resource_status": 1,
+                            "course_resource_record": {
+                                "record_id": 507171,
+                                "course_id": 854,
+                                "resource_id": 18864,
+                                "student_id": 16729,
+                                "record_resource_duration": 0,
+                                "record_resource_per": "0.00",
+                                "record_time": 1691912880,
+                                "record_status": 0,
+                                "time_sync": 0,
+                                "regulation_record_time": 0,
+                                "is_jg": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "section_id": 18819,
+                    "course_id": 854,
+                    "section_code": "c5dda18ee4d73890b37c3034d38e168b",
+                    "section_name": "08 自我评价练习（下）",
+                    "section_sort": 8,
+                    "section_status": 1,
+                    "course_resource": [
+                        {
+                            "resource_id": 18865,
+                            "section_id": 18819,
+                            "resource_code": "8978c0b89c42f85688cc23f91ea91acb",
+                            "resource_name": "08 自我评价练习（下）",
+                            "resource_image": null,
+                            "resource_video": "https:\/\/yxzx-course.oss-cn-beijing.aliyuncs.com\/GYB%E5%88%9B%E4%B8%9A%E6%84%8F%E8%AF%86\/08%20%E8%87%AA%E6%88%91%E8%AF%84%E4%BB%B7%E7%BB%83%E4%B9%A0%EF%BC%88%E4%B8%8B%EF%BC%89%2048.35.mp4",
+                            "resource_duration": 2915,
+                            "resource_sort": 8,
+                            "resource_view_num": 2518,
+                            "resource_status": 1,
+                            "course_resource_record": {
+                                "record_id": 507172,
+                                "course_id": 854,
+                                "resource_id": 18865,
+                                "student_id": 16729,
+                                "record_resource_duration": 0,
+                                "record_resource_per": "0.00",
+                                "record_time": 1691912880,
+                                "record_status": 0,
+                                "time_sync": 0,
+                                "regulation_record_time": 0,
+                                "is_jg": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "section_id": 18820,
+                    "course_id": 854,
+                    "section_code": "e6e091607ace131c237021d09bec8b30",
+                    "section_name": "09 分析你的技能和经验",
+                    "section_sort": 9,
+                    "section_status": 1,
+                    "course_resource": [
+                        {
+                            "resource_id": 18866,
+                            "section_id": 18820,
+                            "resource_code": "c1c80e3d3f24fe70cdbd94fe5aae09e5",
+                            "resource_name": "09 分析你的技能和经验",
+                            "resource_image": null,
+                            "resource_video": "https:\/\/yxzx-course.oss-cn-beijing.aliyuncs.com\/GYB%E5%88%9B%E4%B8%9A%E6%84%8F%E8%AF%86\/09%20%E5%88%86%E6%9E%90%E4%BD%A0%E7%9A%84%E6%8A%80%E8%83%BD%E5%92%8C%E7%BB%8F%E9%AA%8C%2046.28.mp4",
+                            "resource_duration": 2788,
+                            "resource_sort": 100,
+                            "resource_view_num": 3078,
+                            "resource_status": 1,
+                            "course_resource_record": {
+                                "record_id": 507173,
+                                "course_id": 854,
+                                "resource_id": 18866,
+                                "student_id": 16729,
+                                "record_resource_duration": 0,
+                                "record_resource_per": "0.00",
+                                "record_time": 1691912880,
+                                "record_status": 0,
+                                "time_sync": 0,
+                                "regulation_record_time": 0,
+                                "is_jg": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "section_id": 18821,
+                    "course_id": 854,
+                    "section_code": "a20fb7c113fe917b3ed1e22749c9f16f",
+                    "section_name": "10 你最适合创办哪类企业 （上）",
+                    "section_sort": 10,
+                    "section_status": 1,
+                    "course_resource": [
+                        {
+                            "resource_id": 18867,
+                            "section_id": 18821,
+                            "resource_code": "8b9868d0d239a57b263e73ce97a4c4e6",
+                            "resource_name": "10 你最适合创办哪类企业 （上）",
+                            "resource_image": null,
+                            "resource_video": "https:\/\/yxzx-course.oss-cn-beijing.aliyuncs.com\/GYB%E5%88%9B%E4%B8%9A%E6%84%8F%E8%AF%86\/10%20%E4%BD%A0%E6%9C%80%E9%80%82%E5%90%88%E5%88%9B%E5%8A%9E%E5%93%AA%E7%B1%BB%E4%BC%81%E4%B8%9A%20%EF%BC%88%E4%B8%8A%EF%BC%89%2046.08.mp4",
+                            "resource_duration": 2768,
+                            "resource_sort": 100,
+                            "resource_view_num": 2938,
+                            "resource_status": 1,
+                            "course_resource_record": {
+                                "record_id": 507174,
+                                "course_id": 854,
+                                "resource_id": 18867,
+                                "student_id": 16729,
+                                "record_resource_duration": 0,
+                                "record_resource_per": "0.00",
+                                "record_time": 1691912880,
+                                "record_status": 0,
+                                "time_sync": 0,
+                                "regulation_record_time": 0,
+                                "is_jg": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "section_id": 18822,
+                    "course_id": 854,
+                    "section_code": "e2b0024e19da9493cf47c88109280aed",
+                    "section_name": "11 你最适合创办哪类企业（下） ",
+                    "section_sort": 11,
+                    "section_status": 1,
+                    "course_resource": [
+                        {
+                            "resource_id": 18868,
+                            "section_id": 18822,
+                            "resource_code": "f285887185bbf4cce311958d43e81487",
+                            "resource_name": "11 你最适合创办哪类企业（下） ",
+                            "resource_image": null,
+                            "resource_video": "https:\/\/yxzx-course.oss-cn-beijing.aliyuncs.com\/GYB%E5%88%9B%E4%B8%9A%E6%84%8F%E8%AF%86\/11%20%E4%BD%A0%E6%9C%80%E9%80%82%E5%90%88%E5%88%9B%E5%8A%9E%E5%93%AA%E7%B1%BB%E4%BC%81%E4%B8%9A%EF%BC%88%E4%B8%8B%EF%BC%89%2047.10.mp4",
+                            "resource_duration": 2830,
+                            "resource_sort": 100,
+                            "resource_view_num": 3165,
+                            "resource_status": 1,
+                            "course_resource_record": {
+                                "record_id": 507175,
+                                "course_id": 854,
+                                "resource_id": 18868,
+                                "student_id": 16729,
+                                "record_resource_duration": 0,
+                                "record_resource_per": "0.00",
+                                "record_time": 1691912880,
+                                "record_status": 0,
+                                "time_sync": 0,
+                                "regulation_record_time": 0,
+                                "is_jg": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "section_id": 18823,
+                    "course_id": 854,
+                    "section_code": "37b6cdbbf40d0420391ee9dc32c432ce",
+                    "section_name": "12 头脑风暴",
+                    "section_sort": 12,
+                    "section_status": 1,
+                    "course_resource": [
+                        {
+                            "resource_id": 18869,
+                            "section_id": 18823,
+                            "resource_code": "a76d3d0b0c4b89e4c9900393cd0d5558",
+                            "resource_name": "12 头脑风暴",
+                            "resource_image": null,
+                            "resource_video": "https:\/\/yxzx-course.oss-cn-beijing.aliyuncs.com\/GYB%E5%88%9B%E4%B8%9A%E6%84%8F%E8%AF%86\/12%20%E5%A4%B4%E8%84%91%E9%A3%8E%E6%9A%B4%2049.06.mp4",
+                            "resource_duration": 2946,
+                            "resource_sort": 100,
+                            "resource_view_num": 2493,
+                            "resource_status": 1,
+                            "course_resource_record": {
+                                "record_id": 507176,
+                                "course_id": 854,
+                                "resource_id": 18869,
+                                "student_id": 16729,
+                                "record_resource_duration": 0,
+                                "record_resource_per": "0.00",
+                                "record_time": 1691912880,
+                                "record_status": 0,
+                                "time_sync": 0,
+                                "regulation_record_time": 0,
+                                "is_jg": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "section_id": 18824,
+                    "course_id": 854,
+                    "section_code": "078189e95586f041a175d0e89588b37a",
+                    "section_name": "13 调查你准备创业地区的企业情况",
+                    "section_sort": 13,
+                    "section_status": 1,
+                    "course_resource": [
+                        {
+                            "resource_id": 18870,
+                            "section_id": 18824,
+                            "resource_code": "8bed69801b46496576b2cca00f8e0c95",
+                            "resource_name": "13 调查你准备创业地区的企业情况",
+                            "resource_image": null,
+                            "resource_video": "https:\/\/yxzx-course.oss-cn-beijing.aliyuncs.com\/GYB%E5%88%9B%E4%B8%9A%E6%84%8F%E8%AF%86\/13%20%E8%B0%83%E6%9F%A5%E4%BD%A0%E5%87%86%E5%A4%87%E5%88%9B%E4%B8%9A%E5%9C%B0%E5%8C%BA%E7%9A%84%E4%BC%81%E4%B8%9A%E6%83%85%E5%86%B5%2047.50.mp4",
+                            "resource_duration": 2870,
+                            "resource_sort": 100,
+                            "resource_view_num": 3124,
+                            "resource_status": 1,
+                            "course_resource_record": {
+                                "record_id": 507177,
+                                "course_id": 854,
+                                "resource_id": 18870,
+                                "student_id": 16729,
+                                "record_resource_duration": 0,
+                                "record_resource_per": "0.00",
+                                "record_time": 1691912880,
+                                "record_status": 0,
+                                "time_sync": 0,
+                                "regulation_record_time": 0,
+                                "is_jg": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "section_id": 18825,
+                    "course_id": 854,
+                    "section_code": "b552c61f4cbdff79ae91a4f7f2b35175",
+                    "section_name": "14 调查你准备创业地区的环境",
+                    "section_sort": 14,
+                    "section_status": 1,
+                    "course_resource": [
+                        {
+                            "resource_id": 18871,
+                            "section_id": 18825,
+                            "resource_code": "15bf8b15b74e9b33e5e4c77fa54c567e",
+                            "resource_name": "14 调查你准备创业地区的环境",
+                            "resource_image": null,
+                            "resource_video": "https:\/\/yxzx-course.oss-cn-beijing.aliyuncs.com\/GYB%E5%88%9B%E4%B8%9A%E6%84%8F%E8%AF%86\/14%20%E8%B0%83%E6%9F%A5%E4%BD%A0%E5%87%86%E5%A4%87%E5%88%9B%E4%B8%9A%E5%9C%B0%E5%8C%BA%E7%9A%84%E7%8E%AF%E5%A2%83%2045.32.mp4",
+                            "resource_duration": 2732,
+                            "resource_sort": 100,
+                            "resource_view_num": 2479,
+                            "resource_status": 1,
+                            "course_resource_record": {
+                                "record_id": 507178,
+                                "course_id": 854,
+                                "resource_id": 18871,
+                                "student_id": 16729,
+                                "record_resource_duration": 0,
+                                "record_resource_per": "0.00",
+                                "record_time": 1691912880,
+                                "record_status": 0,
+                                "time_sync": 0,
+                                "regulation_record_time": 0,
+                                "is_jg": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "section_id": 18826,
+                    "course_id": 854,
+                    "section_code": "a4143b58832fc529833690f1fe750b9d",
+                    "section_name": "15 利用经验",
+                    "section_sort": 15,
+                    "section_status": 1,
+                    "course_resource": [
+                        {
+                            "resource_id": 18872,
+                            "section_id": 18826,
+                            "resource_code": "f578357c953e8ac8dde37b4ac0d85b03",
+                            "resource_name": "15 利用经验",
+                            "resource_image": null,
+                            "resource_video": "https:\/\/yxzx-course.oss-cn-beijing.aliyuncs.com\/GYB%E5%88%9B%E4%B8%9A%E6%84%8F%E8%AF%86\/15%20%E5%88%A9%E7%94%A8%E7%BB%8F%E9%AA%8C%2048.50.mp4",
+                            "resource_duration": 2930,
+                            "resource_sort": 100,
+                            "resource_view_num": 2620,
+                            "resource_status": 1,
+                            "course_resource_record": {
+                                "record_id": 507179,
+                                "course_id": 854,
+                                "resource_id": 18872,
+                                "student_id": 16729,
+                                "record_resource_duration": 0,
+                                "record_resource_per": "0.00",
+                                "record_time": 1691912880,
+                                "record_status": 0,
+                                "time_sync": 0,
+                                "regulation_record_time": 0,
+                                "is_jg": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "section_id": 18827,
+                    "course_id": 854,
+                    "section_code": "5f240c7761bd729f2e4dad1aeb112f6c",
+                    "section_name": "16 利用互联网 企业想法一览表",
+                    "section_sort": 16,
+                    "section_status": 1,
+                    "course_resource": [
+                        {
+                            "resource_id": 18873,
+                            "section_id": 18827,
+                            "resource_code": "eb6515c19dcb125aab05983ac85d4c52",
+                            "resource_name": "16 利用互联网 企业想法一览表",
+                            "resource_image": null,
+                            "resource_video": "https:\/\/yxzx-course.oss-cn-beijing.aliyuncs.com\/GYB%E5%88%9B%E4%B8%9A%E6%84%8F%E8%AF%86\/16%20%E5%88%A9%E7%94%A8%E4%BA%92%E8%81%94%E7%BD%91%20%E4%BC%81%E4%B8%9A%E6%83%B3%E6%B3%95%E4%B8%80%E8%A7%88%E8%A1%A8%2048.43.mp4",
+                            "resource_duration": 2923,
+                            "resource_sort": 100,
+                            "resource_view_num": 2674,
+                            "resource_status": 1,
+                            "course_resource_record": {
+                                "record_id": 507180,
+                                "course_id": 854,
+                                "resource_id": 18873,
+                                "student_id": 16729,
+                                "record_resource_duration": 0,
+                                "record_resource_per": "0.00",
+                                "record_time": 1691912880,
+                                "record_status": 0,
+                                "time_sync": 0,
+                                "regulation_record_time": 0,
+                                "is_jg": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "section_id": 18828,
+                    "course_id": 854,
+                    "section_code": "2e40fcc8359993dd57f362d439caf7da",
+                    "section_name": "17 学会从顾客维度筛选你的企业想法",
+                    "section_sort": 17,
+                    "section_status": 1,
+                    "course_resource": [
+                        {
+                            "resource_id": 18874,
+                            "section_id": 18828,
+                            "resource_code": "700e0ebc918032711fe1eba9d31dceaa",
+                            "resource_name": "17 学会从顾客维度筛选你的企业想法",
+                            "resource_image": null,
+                            "resource_video": "https:\/\/yxzx-course.oss-cn-beijing.aliyuncs.com\/GYB%E5%88%9B%E4%B8%9A%E6%84%8F%E8%AF%86\/17%20%E5%AD%A6%E4%BC%9A%E4%BB%8E%E9%A1%BE%E5%AE%A2%E7%BB%B4%E5%BA%A6%E7%AD%9B%E9%80%89%E4%BD%A0%E7%9A%84%E4%BC%81%E4%B8%9A%E6%83%B3%E6%B3%95%2045.24.mp4",
+                            "resource_duration": 2724,
+                            "resource_sort": 100,
+                            "resource_view_num": 2616,
+                            "resource_status": 1,
+                            "course_resource_record": {
+                                "record_id": 507181,
+                                "course_id": 854,
+                                "resource_id": 18874,
+                                "student_id": 16729,
+                                "record_resource_duration": 0,
+                                "record_resource_per": "0.00",
+                                "record_time": 1691912880,
+                                "record_status": 0,
+                                "time_sync": 0,
+                                "regulation_record_time": 0,
+                                "is_jg": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "section_id": 18829,
+                    "course_id": 854,
+                    "section_code": "ba2a56d55dc17a736dd7b3849c8610bd",
+                    "section_name": "18 学会从竞争对手得角度筛选你的企业想法",
+                    "section_sort": 18,
+                    "section_status": 1,
+                    "course_resource": [
+                        {
+                            "resource_id": 18875,
+                            "section_id": 18829,
+                            "resource_code": "4a481cbdca865dc5a32aaf06241270b3",
+                            "resource_name": "18 学会从竞争对手得角度筛选你的企业想法",
+                            "resource_image": null,
+                            "resource_video": "https:\/\/yxzx-course.oss-cn-beijing.aliyuncs.com\/GYB%E5%88%9B%E4%B8%9A%E6%84%8F%E8%AF%86\/18%20%E5%AD%A6%E4%BC%9A%E4%BB%8E%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8B%E5%BE%97%E8%A7%92%E5%BA%A6%E7%AD%9B%E9%80%89%E4%BD%A0%E7%9A%84%E4%BC%81%E4%B8%9A%E6%83%B3%E6%B3%95%2049.39.mp4",
+                            "resource_duration": 2979,
+                            "resource_sort": 100,
+                            "resource_view_num": 2604,
+                            "resource_status": 1,
+                            "course_resource_record": {
+                                "record_id": 507182,
+                                "course_id": 854,
+                                "resource_id": 18875,
+                                "student_id": 16729,
+                                "record_resource_duration": 0,
+                                "record_resource_per": "0.00",
+                                "record_time": 1691912880,
+                                "record_status": 0,
+                                "time_sync": 0,
+                                "regulation_record_time": 0,
+                                "is_jg": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "section_id": 18830,
+                    "course_id": 854,
+                    "section_code": "e8769e46d9b48b02dc3fbe202dd81085",
+                    "section_name": "19 学会从资源和需求得角度筛选你的企业想法",
+                    "section_sort": 19,
+                    "section_status": 1,
+                    "course_resource": [
+                        {
+                            "resource_id": 18876,
+                            "section_id": 18830,
+                            "resource_code": "f66767e3fcb6b13e7093aeb4753375ef",
+                            "resource_name": "19 学会从资源和需求得角度筛选你的企业想法",
+                            "resource_image": null,
+                            "resource_video": "https:\/\/yxzx-course.oss-cn-beijing.aliyuncs.com\/GYB%E5%88%9B%E4%B8%9A%E6%84%8F%E8%AF%86\/19%20%E5%AD%A6%E4%BC%9A%E4%BB%8E%E8%B5%84%E6%BA%90%E5%92%8C%E9%9C%80%E6%B1%82%E5%BE%97%E8%A7%92%E5%BA%A6%E7%AD%9B%E9%80%89%E4%BD%A0%E7%9A%84%E4%BC%81%E4%B8%9A%E6%83%B3%E6%B3%95%2050.45.mp4",
+                            "resource_duration": 3045,
+                            "resource_sort": 100,
+                            "resource_view_num": 2683,
+                            "resource_status": 1,
+                            "course_resource_record": {
+                                "record_id": 507183,
+                                "course_id": 854,
+                                "resource_id": 18876,
+                                "student_id": 16729,
+                                "record_resource_duration": 0,
+                                "record_resource_per": "0.00",
+                                "record_time": 1691912880,
+                                "record_status": 0,
+                                "time_sync": 0,
+                                "regulation_record_time": 0,
+                                "is_jg": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "section_id": 18831,
+                    "course_id": 854,
+                    "section_code": "c7b789e10b32f49c06f89b20276f0a8b",
+                    "section_name": "20 学会从你的技能，知识和经验的角度筛选你的企业构思",
+                    "section_sort": 20,
+                    "section_status": 1,
+                    "course_resource": [
+                        {
+                            "resource_id": 18877,
+                            "section_id": 18831,
+                            "resource_code": "264a3edd192fb181c1c94f7da66ad146",
+                            "resource_name": "20 学会从你的技能，知识和经验的角度筛选你的企业构思",
+                            "resource_image": null,
+                            "resource_video": "https:\/\/yxzx-course.oss-cn-beijing.aliyuncs.com\/GYB%E5%88%9B%E4%B8%9A%E6%84%8F%E8%AF%86\/20%20%E5%AD%A6%E4%BC%9A%E4%BB%8E%E4%BD%A0%E7%9A%84%E6%8A%80%E8%83%BD%EF%BC%8C%E7%9F%A5%E8%AF%86%E5%92%8C%E7%BB%8F%E9%AA%8C%E7%9A%84%E8%A7%92%E5%BA%A6%E7%AD%9B%E9%80%89%E4%BD%A0%E7%9A%84%E4%BC%81%E4%B8%9A%E6%9E%84%E6%80%9D%2050.26.mp4",
+                            "resource_duration": 3026,
+                            "resource_sort": 100,
+                            "resource_view_num": 2595,
+                            "resource_status": 1,
+                            "course_resource_record": {
+                                "record_id": 507184,
+                                "course_id": 854,
+                                "resource_id": 18877,
+                                "student_id": 16729,
+                                "record_resource_duration": 0,
+                                "record_resource_per": "0.00",
+                                "record_time": 1691912880,
+                                "record_status": 0,
+                                "time_sync": 0,
+                                "regulation_record_time": 0,
+                                "is_jg": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "section_id": 18832,
+                    "course_id": 854,
+                    "section_code": "d7bc0c6fde572a0aa6a7780b94c65685",
+                    "section_name": "21 学会用实地调研的方法分析你的企业想法",
+                    "section_sort": 21,
+                    "section_status": 1,
+                    "course_resource": [
+                        {
+                            "resource_id": 18878,
+                            "section_id": 18832,
+                            "resource_code": "479917dc1c4d04e5f4d79592e2c8245c",
+                            "resource_name": "21 学会用实地调研的方法分析你的企业想法",
+                            "resource_image": null,
+                            "resource_video": "https:\/\/yxzx-course.oss-cn-beijing.aliyuncs.com\/GYB%E5%88%9B%E4%B8%9A%E6%84%8F%E8%AF%86\/21%20%E5%AD%A6%E4%BC%9A%E7%94%A8%E5%AE%9E%E5%9C%B0%E8%B0%83%E7%A0%94%E7%9A%84%E6%96%B9%E6%B3%95%E5%88%86%E6%9E%90%E4%BD%A0%E7%9A%84%E4%BC%81%E4%B8%9A%E6%83%B3%E6%B3%95%2052.52.mp4",
+                            "resource_duration": 3172,
+                            "resource_sort": 100,
+                            "resource_view_num": 3164,
+                            "resource_status": 1,
+                            "course_resource_record": {
+                                "record_id": 507185,
+                                "course_id": 854,
+                                "resource_id": 18878,
+                                "student_id": 16729,
+                                "record_resource_duration": 0,
+                                "record_resource_per": "0.00",
+                                "record_time": 1691912880,
+                                "record_status": 0,
+                                "time_sync": 0,
+                                "regulation_record_time": 0,
+                                "is_jg": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "section_id": 18833,
+                    "course_id": 854,
+                    "section_code": "3ff91c04860f08a5ca94033fb31bfb92",
+                    "section_name": "22 学会使用SWOT分析方法分析你的企业 ",
+                    "section_sort": 22,
+                    "section_status": 1,
+                    "course_resource": [
+                        {
+                            "resource_id": 18879,
+                            "section_id": 18833,
+                            "resource_code": "017262b53490e48cba4d4d25aa334245",
+                            "resource_name": "22 学会使用SWOT分析方法分析你的企业 ",
+                            "resource_image": null,
+                            "resource_video": "https:\/\/yxzx-course.oss-cn-beijing.aliyuncs.com\/GYB%E5%88%9B%E4%B8%9A%E6%84%8F%E8%AF%86\/22%20%E5%AD%A6%E4%BC%9A%E4%BD%BF%E7%94%A8SWOT%E5%88%86%E6%9E%90%E6%96%B9%E6%B3%95%E5%88%86%E6%9E%90%E4%BD%A0%E7%9A%84%E4%BC%81%E4%B8%9A%2049.13.mp4",
+                            "resource_duration": 2953,
+                            "resource_sort": 100,
+                            "resource_view_num": 2430,
+                            "resource_status": 1,
+                            "course_resource_record": {
+                                "record_id": 507186,
+                                "course_id": 854,
+                                "resource_id": 18879,
+                                "student_id": 16729,
+                                "record_resource_duration": 0,
+                                "record_resource_per": "0.00",
+                                "record_time": 1691912880,
+                                "record_status": 0,
+                                "time_sync": 0,
+                                "regulation_record_time": 0,
+                                "is_jg": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "section_id": 18834,
+                    "course_id": 854,
+                    "section_code": "b035538034968eb3d2aaa9805532a417",
+                    "section_name": "23 知道企业对环境的影响并能够对准备创办企业进行环境影响评估",
+                    "section_sort": 23,
+                    "section_status": 1,
+                    "course_resource": [
+                        {
+                            "resource_id": 18880,
+                            "section_id": 18834,
+                            "resource_code": "655bfdb31ac60d0743e7bb1d8cdac99c",
+                            "resource_name": "23 知道企业对环境的影响并能够对准备创办企业进行环境影响评估",
+                            "resource_image": null,
+                            "resource_video": "https:\/\/yxzx-course.oss-cn-beijing.aliyuncs.com\/GYB%E5%88%9B%E4%B8%9A%E6%84%8F%E8%AF%86\/23%20%E7%9F%A5%E9%81%93%E4%BC%81%E4%B8%9A%E5%AF%B9%E7%8E%AF%E5%A2%83%E7%9A%84%E5%BD%B1%E5%93%8D%E5%B9%B6%E8%83%BD%E5%A4%9F%E5%AF%B9%E5%87%86%E5%A4%87%E5%88%9B%E5%8A%9E%E4%BC%81%E4%B8%9A%E8%BF%9B%E8%A1%8C%E7%8E%AF%E5%A2%83%E5%BD%B1%E5%93%8D%E8%AF%84%E4%BC%B0%2048.41.mp4",
+                            "resource_duration": 2921,
+                            "resource_sort": 100,
+                            "resource_view_num": 2559,
+                            "resource_status": 1,
+                            "course_resource_record": {
+                                "record_id": 507187,
+                                "course_id": 854,
+                                "resource_id": 18880,
+                                "student_id": 16729,
+                                "record_resource_duration": 0,
+                                "record_resource_per": "0.00",
+                                "record_time": 1691912880,
+                                "record_status": 0,
+                                "time_sync": 0,
+                                "regulation_record_time": 0,
+                                "is_jg": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "section_id": 18835,
+                    "course_id": 854,
+                    "section_code": "46d54097e78ecb7ada2bf634cc5eb66c",
+                    "section_name": "24 你自己的企业想法 ",
+                    "section_sort": 24,
+                    "section_status": 1,
+                    "course_resource": [
+                        {
+                            "resource_id": 18881,
+                            "section_id": 18835,
+                            "resource_code": "6d30af42f37de32b0b85ec74549f7eba",
+                            "resource_name": "24 你自己的企业想法 ",
+                            "resource_image": null,
+                            "resource_video": "https:\/\/yxzx-course.oss-cn-beijing.aliyuncs.com\/GYB%E5%88%9B%E4%B8%9A%E6%84%8F%E8%AF%86\/24%20%E4%BD%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BC%81%E4%B8%9A%E6%83%B3%E6%B3%95%2049.33.mp4",
+                            "resource_duration": 2973,
+                            "resource_sort": 100,
+                            "resource_view_num": 2546,
+                            "resource_status": 1,
+                            "course_resource_record": {
+                                "record_id": 507188,
+                                "course_id": 854,
+                                "resource_id": 18881,
+                                "student_id": 16729,
+                                "record_resource_duration": 0,
+                                "record_resource_per": "0.00",
+                                "record_time": 1691912880,
+                                "record_status": 0,
+                                "time_sync": 0,
+                                "regulation_record_time": 0,
+                                "is_jg": 0
+                            }
+                        }
+                    ]
+                }
+            ],
+            "course_record": {
+                "record_id": 22667,
+                "course_id": 854,
+                "class_id": 329,
+                "student_id": 16729,
+                "record_resource_num": 0,
+                "record_resource_sum": 24,
+                "record_course_per": 0,
+                "record_time": 1691914333,
+                "record_status": 0
+            }
+        },
+        "record_study_period_day": 200,
+        "record_study_resource_day": 0
+    }
+}
