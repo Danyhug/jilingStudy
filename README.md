@@ -11,3 +11,10 @@
    - 复制请求头的`Access-Token`，添加到程序代码的`token`中 ![img](./img/3.png) 
 4. 安装依赖 `pip i -r requirements.txt`
 5. 运行程序 `python main.py`
+## 如果观看中有视频/照片认证，建议使用以下代码（脚本不会有任何的图片验证，所以会被判定为刷课）
+打开`视频播放页`，控制台输入
+```js
+window.onblur=()=>{}
+document.onvisibilitychange=()=>{}
+document.querySelector('video').playbackRate=1.5 // 1.5倍速，该成自己想要的速度
+```
