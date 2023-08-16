@@ -14,7 +14,15 @@
 ## 如果观看中有视频/照片认证，建议使用以下代码（脚本不会有任何的图片验证，所以会被判定为刷课）
 打开`视频播放页`，控制台输入
 ```js
-window.onblur=()=>{}
-document.onvisibilitychange=()=>{}
-document.querySelector('video').playbackRate=1.5 // 1.5倍速，该成自己想要的速度
+setInterval(() => {
+  window.onblur = () => {};
+  document.onvisibilitychange = () => {};
+  // 1.5倍速，该成自己想要的速度
+  document.querySelector('video').playbackRate = 1.5;
+
+  let btn = document.querySelector('.video-tool-bottom .anticon');
+  if (btn.classList.contains('anticon-caret-right')) {
+    btn.click();
+  }
+}, 1000); // 这里的1000是定时器的间隔时间，单位为毫秒
 ```
